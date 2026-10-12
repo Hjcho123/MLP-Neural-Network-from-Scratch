@@ -1,5 +1,5 @@
-# Micrograd Replication
-- An Auto-Gradiation backprop engine from scratch based on Andrew Karpathy's original micrograd model
+# Building an MLP from scratch
+- Mostly for educational purposes. Based on work by Andrej Karpathy.
 
 
 
